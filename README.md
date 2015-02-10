@@ -1,6 +1,3 @@
-require 'github/markup'
-GitHub::Markup.render(file, File.read(file))
-
 # Izzy Markwick
 Junior web developer. 
 I enjoy creating things and building on ideas using technology. 
@@ -25,7 +22,7 @@ Keen to gain insight and knowledge in web development for myself, I joined [Make
 
 ### Makers Academy
 27 October 14 - 31 January 15
-Highly-selective, 12-week, full-time course based in London.
+* Highly-selective, 12-week, full-time course based in London.
 
 ### Skills
 * Ruby 2.0
