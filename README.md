@@ -6,12 +6,12 @@ In particular, my experience is in web applications that are well-tested and del
 ## Code examples
 ### [Oodls](https://github.com/imarkwick/oodls)
 Charity web app designed to help reduce food waste. 
-It was built using Rails and Gmaps, and designed mobile-first using Foundation.
+It was built using Rails and GMaps, and designed mobile-first using Foundation.
 Follow the link to view the app hosted on [Heroku](http://oodls.io/)
 
 ### [Sleazy](https://github.com/imarkwick/sleazy)
 Music web app to listen to tunes and compile playlists of your top 10 tracks.
-Built using Rails and Angular, with the Soundcloud api to provide a database of tracks and artists for users to search through.
+It was built using Rails and Angular, with the Soundcloud api to provide a database of tracks and artists for users to search through.
 
 ### [Chitter](https://github.com/imarkwick/chitter)
 Sinatra and Ruby web app to post comments in a public news feed contributed to by all users.
@@ -21,7 +21,8 @@ My interest in coding started soon after school and quickly came to influence ma
 Keen to gain insight and knowledge in web development for myself, I joined [Makers Academy](http://www.makersacademy.com/) and took on their intensive 3-month, full-stack, coding bootcamp.
 
 ### Makers Academy
-27.10.14 - 31.01.15
+27 October 14 - 31 January 15
+Highly-selective, 12-week, full-time course based in London.
 
 ### Skills
 * Ruby 2.0
