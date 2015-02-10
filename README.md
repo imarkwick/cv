@@ -18,9 +18,9 @@ Chitter
 Sinatra and Ruby web app to post comments in a public news feed from all users.
 
 
-Oodls             | Sleazy             | Chitter
---------------------------------------------------------
-Charity web app designed to help reduce food waste. 																| 
-It was built using Rails and Gmaps, and designed for mobile-first using Foundation. |
-Follow the link to view the app hosted on [Heroku](http://oodls.io/) 								|
-Or to view the code, see the Repo on [Github](https://github.com/imarkwick/oodls)		|
+| Oodls             | Sleazy             | Chitter         |
+| --------------------------------------------------------
+| Charity web app designed to help reduce food waste. 																| something | something |
+| It was built using Rails and Gmaps, and designed for mobile-first using Foundation. |
+| Follow the link to view the app hosted on [Heroku](http://oodls.io/) 								|
+| Or to view the code, see the Repo on [Github](https://github.com/imarkwick/oodls)		|
