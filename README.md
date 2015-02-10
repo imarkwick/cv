@@ -1,3 +1,6 @@
+require 'github/markup'
+GitHub::Markup.render(file, File.read(file))
+
 # Izzy Markwick
 Junior web developer. 
 I enjoy creating things and building on ideas using technology. 
