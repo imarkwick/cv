@@ -21,7 +21,7 @@ Keen to gain insight and knowledge in web development for myself, I joined [Make
 
 ### Makers Academy:
 
-27 October 14 - 31 January 15
+27.09.14 - 31.01.15
 A selective, 12-week, full-time course based in London.
 
 #### Skills:
@@ -48,12 +48,12 @@ A selective, 12-week, full-time course based in London.
 
 ## Employment
 
-### [Snap Fashion](http://www.snapfashion.co.uk/)
+#### [Snap Fashion](http://www.snapfashion.co.uk/)
 
 01.07.13 - 30.09.14
 Business Development
 
-### Internships & Work Experience
+#### Internships & Work Experience
 
 - Karmarama June/July 2012 - Advertising agency
 - Venrex June/July 2011 - Early stage vc fund management company
@@ -61,7 +61,7 @@ Business Development
 
 ## Education
 
-### BA: International Politics
+#### BA: International Politics
 
 King's College Longon
 2010-2013
