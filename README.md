@@ -1,7 +1,5 @@
 # Izzy Markwick
-Junior web developer. 
-I enjoy creating things and building on ideas using technology. 
-In particular, my experience is in web applications that are well-tested and deliver a smooth, simple user experience.
+### Junior web developer
 
 ## Code examples
 ### [Oodls](https://github.com/imarkwick/oodls)
