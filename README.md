@@ -22,9 +22,8 @@ Keen to gain insight and knowledge in web development for myself, I joined [Make
 
 ### Makers Academy
 27 October 14 - 31 January 15
-* Highly-selective, 12-week, full-time course based in London.
+* A selective, 12-week, full-time course based in London.
 
-### Skills
 * Ruby 2.0
 * Rails 4
 * HTML5 and ERB
@@ -47,4 +46,21 @@ Keen to gain insight and knowledge in web development for myself, I joined [Make
 
 ## Employment
 
+### [Snap Fashion](http://www.snapfashion.co.uk/)
+
+01.07.13 - 30.09.14
+Business Development
+
+### Internships & Work Experience
+
+- Karmarama June/July 2012 - Advertising agency
+- Venrex June/July 2011 - Early stage vc fund management company
+- Tatler Magazie April 2009 - Fashion & editorial department
+
+## Education
+
+### BA: International Politics
+
+King's College Longon
+2010-2013
 
